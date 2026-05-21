@@ -6,7 +6,7 @@ Main Contributor - Mohammad Faiyaz Mazumder
 
 ## 👥 Group Members 3
 
-| Name | Student ID | Department |
+| Name | Department |
 |------|-----------|------------|
 | Mohammad Faiyaz Mazumder  | CSE |
 | Fabiha Islam  | CSE |
