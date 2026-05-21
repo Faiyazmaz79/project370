@@ -8,9 +8,9 @@ Main Contributor - Mohammad Faiyaz Mazumder
 
 | Name | Student ID | Department |
 |------|-----------|------------|
-| Mohammad Faiyaz Mazumder  | 24101352 | CSE |
-| Fabiha Islam  | 22301002 | CSE |
-| Shuvo Das  | 22301003 | CSE |
+| Mohammad Faiyaz Mazumder  | CSE |
+| Fabiha Islam  | CSE |
+| Shuvo Das  | CSE |
 
 ---
 
