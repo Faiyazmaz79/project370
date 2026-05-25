@@ -1,6 +1,6 @@
 # 🎓 University Portal — CSE370 Database Systems Project
 Main Contributor - Mohammad Faiyaz Mazumder
-**BRAC University | Spring 2026 | Lab Group 01**
+BRAC University | Spring 2026 
 
 ---
 
